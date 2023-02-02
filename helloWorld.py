@@ -1,3 +1,3 @@
 print ("Git is awesome!")
-name = input ("What is your name: ")
+name = input ("Try again!  What is your name: ")
 print (name)
